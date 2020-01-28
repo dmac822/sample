@@ -1,5 +1,5 @@
 cars = 100
-space_in_a_car = 4.0
+space_in_a_car = 4
 drivers = 30
 passengers = 90
 cars_not_driven = cars - drivers
@@ -13,3 +13,4 @@ print("there will be", cars_not_driven, "empty cars today")
 print("we can transport", carpool_capacity, "people today")
 print("we have", passengers, "to carpool today.")
 print("We need to put about", average_passengers_per_car, "in each car")
+print(space_in_a_car)
