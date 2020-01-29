@@ -8,3 +8,5 @@ my_hair = 'Brown'
 
 print("Let's talk about", my_name)
 print("Let's talk about {} ".format(my_name))
+
+print("Let's talk about {} and {}" .format(my_eyes,my_age))
